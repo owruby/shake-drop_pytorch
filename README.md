@@ -22,7 +22,7 @@ python train.py --epochs 300 --batch_size 128 --label 100 --lr 0.5 --depth 110 -
 
 ## References
 Yoshihiro Yamada, Masakazu Iwamura, Koichi Kise. "ShakeDrop regularization"
-[ICLR2017 OpenReview](https://openreview.net/forum?id=S1NHaMW0b)
+[ICLR2018 UnderReview](https://openreview.net/forum?id=S1NHaMW0b)
 
 Yoshihiro Yamada, Masakazu Iwamura, Takuya Akiba, Koichi Kise. "
 ShakeDrop Regularization for Deep Residual Learning"
