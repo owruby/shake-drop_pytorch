@@ -1,6 +1,5 @@
 # Shake Drop regularization
 PyTorch implementation of shake-drop regularization.
-Author Torch implementations is [here](https://github.com/imenurok/ShakeDrop).
 
 ## Dependencies
 - python 3.5+
@@ -28,3 +27,5 @@ Yoshihiro Yamada, Masakazu Iwamura, Takuya Akiba, Koichi Kise. "
 ShakeDrop Regularization for Deep Residual Learning"
 [arXiv:1802.02375v2](https://arxiv.org/abs/1802.02375)
 
+Author Torch Implementation
+https://github.com/imenurok/ShakeDrop
